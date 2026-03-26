@@ -101,7 +101,7 @@ Contributions welcome! Please submit issues or pull requests on GitHub.
 
 ## License
 
-[MIT License](LICENSE) (add your preferred license file).
+[MIT License](LICENSE) 
 
 ## Credits
 
